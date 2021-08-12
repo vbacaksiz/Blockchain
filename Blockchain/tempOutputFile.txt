@@ -1,0 +1,66 @@
+0. BLOCK
+ID            : 0
+BLOCK TEXT    : Bize her yer Trabzon! Bolumun en yakisikli hocasi Ibrahim Hoca’dir
+BLOCK HASH    : 0000000000000000000000000000000000000000000000000000000000000000
+BLOCK NONCE   : 0
+BLOCK CONTROL : 0
+TIME          : 0 hour :: 0 min :: 0 sec:: 0 ms
+
+
+---------------------------------------------
+
+1. BLOCK
+ID            : 1
+BLOCK TEXT    : 1Bize her yer Trabzon! Bolumun en yakisikli hocasi Ibrahim Hoca’dir000000000000000000000000000000000000000000000000000000000000000035
+BLOCK HASH    : 0f350e5a0646d550d97d7fa9a19249c7aaec27415d895507992e829447eafa79
+BLOCK NONCE   : 35
+BLOCK CONTROL : 1
+TIME          : 0 hour :: 0 min :: 0 sec:: 248.991 ms
+
+
+---------------------------------------------
+
+2. BLOCK
+ID            : 2
+BLOCK TEXT    : 21Bize her yer Trabzon! Bolumun en yakisikli hocasi Ibrahim Hoca’dir0000000000000000000000000000000000000000000000000000000000000000350f350e5a0646d550d97d7fa9a19249c7aaec27415d895507992e829447eafa79219
+BLOCK HASH    : 0091726b68264fd56e641ce489dfcb0180873c9f2d91d44b05e18c2062688fb4
+BLOCK NONCE   : 219
+BLOCK CONTROL : 1
+TIME          : 0 hour :: 0 min :: 0 sec:: 555.11 ms
+
+
+---------------------------------------------
+
+3. BLOCK
+ID            : 3
+BLOCK TEXT    : 321Bize her yer Trabzon! Bolumun en yakisikli hocasi Ibrahim Hoca’dir0000000000000000000000000000000000000000000000000000000000000000350f350e5a0646d550d97d7fa9a19249c7aaec27415d895507992e829447eafa792190091726b68264fd56e641ce489dfcb0180873c9f2d91d44b05e18c2062688fb4635
+BLOCK HASH    : 0009649992c46c6586caf1ff54a31a48d3849b502b23885e06c92f8f2a87a394
+BLOCK NONCE   : 635
+BLOCK CONTROL : 1
+TIME          : 0 hour :: 0 min :: 0 sec:: 746.681 ms
+
+
+---------------------------------------------
+
+4. BLOCK
+ID            : 4
+BLOCK TEXT    : 4321Bize her yer Trabzon! Bolumun en yakisikli hocasi Ibrahim Hoca’dir0000000000000000000000000000000000000000000000000000000000000000350f350e5a0646d550d97d7fa9a19249c7aaec27415d895507992e829447eafa792190091726b68264fd56e641ce489dfcb0180873c9f2d91d44b05e18c2062688fb46350009649992c46c6586caf1ff54a31a48d3849b502b23885e06c92f8f2a87a394169103
+BLOCK HASH    : 0000a6ff9feb5b78979839308c23f3fcda02a4e0e32191f7418d026998e5b455
+BLOCK NONCE   : 169103
+BLOCK CONTROL : 1
+TIME          : 0 hour :: 0 min :: 2 sec:: 856.927 ms
+
+
+---------------------------------------------
+
+5. BLOCK
+ID            : 5
+BLOCK TEXT    : 54321Bize her yer Trabzon! Bolumun en yakisikli hocasi Ibrahim Hoca’dir0000000000000000000000000000000000000000000000000000000000000000350f350e5a0646d550d97d7fa9a19249c7aaec27415d895507992e829447eafa792190091726b68264fd56e641ce489dfcb0180873c9f2d91d44b05e18c2062688fb46350009649992c46c6586caf1ff54a31a48d3849b502b23885e06c92f8f2a87a3941691030000a6ff9feb5b78979839308c23f3fcda02a4e0e32191f7418d026998e5b455206879
+BLOCK HASH    : 00000f097ae7176953130fada708fb8246730177fd5c931dfb12abb47b09f098
+BLOCK NONCE   : 206879
+BLOCK CONTROL : 1
+TIME          : 0 hour :: 0 min :: 5 sec:: 457.038 ms
+
+
+---------------------------------------------
+
